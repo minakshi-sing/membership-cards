@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 5px;
+}
+.card1-header {
+  background: linear-gradient(90deg, darkblue, red);
+}
+.card2-header {
+  background: linear-gradient(90deg, darkblue, rgb(170, 28, 170));
+}
+.card3-header {
+  background: linear-gradient(90deg, darkblue, purple);
+}
+.card4-header {
+  background: linear-gradient(90deg, darkblue, blue);
+}
+.card {
+  margin: 0 auto;
+  width: 300px;
+}
+.middle-card {
+  margin-left: -100px;
+}
+
+.bi {
+  margin-right: 10px;
+}
+span {
+  margin-left: 25px;
+  display: block;
+}
